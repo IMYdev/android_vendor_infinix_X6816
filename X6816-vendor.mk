@@ -1573,7 +1573,6 @@ PRODUCT_PACKAGES += \
     NetworkStackResOverlay \
     TetheringResOverlay \
     gift-core \
-    android.hardware.biometrics.fingerprint@2.1-service \
     android.hardware.health@2.1 \
     android.hardware.wifi.hostapd \
     android.hardware.wifi@1.0-service \
