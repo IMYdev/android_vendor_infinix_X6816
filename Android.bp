@@ -204,21 +204,6 @@ dex_import {
 	jars: ["proprietary/framework/mediatek-telephony-common.jar"],
 }
 
-cc_prebuilt_library_shared {
-	name: "libfmjni",
-	owner: "infinix",
-	strip: {
-		none: true,
-	},
-	target: {
-		android_arm64: {
-			srcs: ["proprietary/system/lib64/libfmjni.so"],
-		},
-	},
-	compile_multilib: "64",
-	check_elf_files: false,
-	prefer: true,
-}
 
 cc_prebuilt_library_shared {
 	name: "libalsautils-v30",
