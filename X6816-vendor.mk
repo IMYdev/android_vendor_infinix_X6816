@@ -103,7 +103,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6816/proprietary/vendor/bin/mrdump_tool:$(TARGET_COPY_OUT_VENDOR)/bin/mrdump_tool \
     vendor/infinix/X6816/proprietary/vendor/bin/mtk_agpsd:$(TARGET_COPY_OUT_VENDOR)/bin/mtk_agpsd \
     vendor/infinix/X6816/proprietary/vendor/bin/muxreport:$(TARGET_COPY_OUT_VENDOR)/bin/muxreport \
-    vendor/infinix/X6816/proprietary/vendor/bin/nc:$(TARGET_COPY_OUT_VENDOR)/bin/nc \
     vendor/infinix/X6816/proprietary/vendor/bin/netcat:$(TARGET_COPY_OUT_VENDOR)/bin/netcat \
     vendor/infinix/X6816/proprietary/vendor/bin/netdagent:$(TARGET_COPY_OUT_VENDOR)/bin/netdagent \
     vendor/infinix/X6816/proprietary/vendor/bin/netdc:$(TARGET_COPY_OUT_VENDOR)/bin/netdc \
