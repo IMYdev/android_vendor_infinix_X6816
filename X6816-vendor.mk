@@ -780,9 +780,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6816/proprietary/vendor/lib/libvt_custom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvt_custom.so \
     vendor/infinix/X6816/proprietary/vendor/lib/libwo.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwo.so \
     vendor/infinix/X6816/proprietary/vendor/lib/libwvhidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwvhidl.so \
-    vendor/infinix/X6816/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/mediadrm/libdrmclearkeyplugin.so \
-    vendor/infinix/X6816/proprietary/vendor/lib/mediadrm/libmockdrmcryptoplugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/mediadrm/libmockdrmcryptoplugin.so \
-    vendor/infinix/X6816/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:$(TARGET_COPY_OUT_VENDOR)/lib/mediadrm/libwvdrmengine.so \
     vendor/infinix/X6816/proprietary/vendor/lib/pblcgc08a3_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/pblcgc08a3_mipi_raw_tuning.so \
     vendor/infinix/X6816/proprietary/vendor/lib/pblcs5k3l6_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/pblcs5k3l6_mipi_raw_tuning.so \
     vendor/infinix/X6816/proprietary/vendor/lib/s5k3l6_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/s5k3l6_mipi_raw_tuning.so \
