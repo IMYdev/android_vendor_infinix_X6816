@@ -1105,7 +1105,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6816/proprietary/vendor/lib64/libpowerhalwrap_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpowerhalwrap_vendor.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libpq_cust_base.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpq_cust_base.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libpq_prot.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpq_prot.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/libpuresoftkeymasterdevice.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpuresoftkeymasterdevice.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libratconfig.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libratconfig.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libremosaic_wrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libremosaic_wrapper.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libremosaiclib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libremosaiclib.so \
