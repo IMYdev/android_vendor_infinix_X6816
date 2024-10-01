@@ -995,9 +995,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6816/proprietary/vendor/lib64/libgz_gp_client.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgz_gp_client.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libgz_uree.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgz_uree.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libhevce_sb.ca7.android.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhevce_sb.ca7.android.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/libhidltransport.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhidltransport.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/libhwbinder.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhwbinder.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/libhwm.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhwm.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libhydra.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhydra.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libifcutils_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libifcutils_mtk.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libimageio.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libimageio.so \
