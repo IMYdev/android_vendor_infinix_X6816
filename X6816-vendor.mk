@@ -783,9 +783,7 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6816/proprietary/vendor/lib/pblcgc08a3_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/pblcgc08a3_mipi_raw_tuning.so \
     vendor/infinix/X6816/proprietary/vendor/lib/pblcs5k3l6_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/pblcs5k3l6_mipi_raw_tuning.so \
     vendor/infinix/X6816/proprietary/vendor/lib/s5k3l6_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/s5k3l6_mipi_raw_tuning.so \
-    vendor/infinix/X6816/proprietary/vendor/lib/soundfx/libaudiopreprocessing.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiopreprocessing.so \
     vendor/infinix/X6816/proprietary/vendor/lib/soundfx/libaudiopreprocessing_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiopreprocessing_mtk.so \
-    vendor/infinix/X6816/proprietary/vendor/lib/soundfx/libdtsaudio.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libdtsaudio.so \
     vendor/infinix/X6816/proprietary/vendor/lib/vendor.mediatek.hardware.audio@6.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.audio@6.1.so \
     vendor/infinix/X6816/proprietary/vendor/lib/vendor.mediatek.hardware.bluetooth.audio@2.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.bluetooth.audio@2.1.so \
     vendor/infinix/X6816/proprietary/vendor/lib/vendor.mediatek.hardware.camera.bgservice@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.camera.bgservice@1.0.so \
