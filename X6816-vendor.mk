@@ -613,21 +613,10 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6816/proprietary/vendor/lib/hw/android.hardware.audio@6.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.audio@6.0-impl-mediatek.so \
     vendor/infinix/X6816/proprietary/vendor/lib/hw/android.hardware.bluetooth@1.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.bluetooth@1.0-impl-mediatek.so \
     vendor/infinix/X6816/proprietary/vendor/lib/hw/android.hardware.graphics.mapper@4.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.graphics.mapper@4.0-impl-mediatek.so \
-    vendor/infinix/X6816/proprietary/vendor/lib/hw/audio.bluetooth.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.bluetooth.default.so \
-    vendor/infinix/X6816/proprietary/vendor/lib/hw/audio.primary.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.default.so \
     vendor/infinix/X6816/proprietary/vendor/lib/hw/audio.primary.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.mt6765.so \
-    vendor/infinix/X6816/proprietary/vendor/lib/hw/audio.r_submix.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.r_submix.default.so \
     vendor/infinix/X6816/proprietary/vendor/lib/hw/audio.r_submix.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.r_submix.mt6765.so \
-    vendor/infinix/X6816/proprietary/vendor/lib/hw/audio.usb.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.usb.default.so \
     vendor/infinix/X6816/proprietary/vendor/lib/hw/audio.usb.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.usb.mt6765.so \
-    vendor/infinix/X6816/proprietary/vendor/lib/hw/audio_policy.stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio_policy.stub.so \
-    vendor/infinix/X6816/proprietary/vendor/lib/hw/gatekeeper.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gatekeeper.default.so \
     vendor/infinix/X6816/proprietary/vendor/lib/hw/gatekeeper.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gatekeeper.mt6765.so \
-    vendor/infinix/X6816/proprietary/vendor/lib/hw/gatekeeper.x6816_xq683.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gatekeeper.x6816_xq683.so \
-    vendor/infinix/X6816/proprietary/vendor/lib/hw/gps.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gps.default.so \
-    vendor/infinix/X6816/proprietary/vendor/lib/hw/gralloc.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gralloc.default.so \
-    vendor/infinix/X6816/proprietary/vendor/lib/hw/gralloc.rogue.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gralloc.rogue.so \
-    vendor/infinix/X6816/proprietary/vendor/lib/hw/kmsetkey.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/kmsetkey.default.so \
     vendor/infinix/X6816/proprietary/vendor/lib/hw/kmsetkey.trustonic.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/kmsetkey.trustonic.so \
     vendor/infinix/X6816/proprietary/vendor/lib/hw/libMcGatekeeper.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/libMcGatekeeper.so \
     vendor/infinix/X6816/proprietary/vendor/lib/hw/libSoftGatekeeper.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/libSoftGatekeeper.so \
