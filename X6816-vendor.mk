@@ -1005,8 +1005,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6816/proprietary/vendor/lib64/libipsec_ims_shr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libipsec_ims_shr.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libjpeg-alpha-oal_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libjpeg-alpha-oal_vendor.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libjpeg-alpha_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libjpeg-alpha_vendor.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/libkeymaster4.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libkeymaster4.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/libkeymaster4support.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libkeymaster4support.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libkeymaster_messages.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libkeymaster_messages.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libkeymaster_portable.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libkeymaster_portable.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libkeystore-engine-wifi-hidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libkeystore-engine-wifi-hidl.so \
