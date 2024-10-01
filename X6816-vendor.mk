@@ -823,7 +823,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6816/proprietary/vendor/lib64/gc08a3_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/gc08a3_mipi_raw_tuning.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/gc6133_serial_yuv_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/gc6133_serial_yuv_IdxMgr.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/gc6133_serial_yuv_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/gc6133_serial_yuv_tuning.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/hw/android.hardware.audio.effect@6.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.audio.effect@6.0-impl.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/hw/android.hardware.audio@6.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.audio@6.0-impl-mediatek.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.bluetooth@1.0-impl-mediatek.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/hw/android.hardware.camera.provider@2.6-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.camera.provider@2.6-impl-mediatek.so \
@@ -832,7 +831,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6816/proprietary/vendor/lib64/hw/audio.primary.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.primary.mt6765.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/hw/audio.r_submix.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.r_submix.mt6765.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/hw/audio.usb.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.usb.mt6765.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/hw/focal_fingerprint.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/focal_fingerprint.default.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/hw/gatekeeper.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gatekeeper.mt6765.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/hw/gatekeeper.x6816_xq683.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gatekeeper.x6816_xq683.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/hw/hwcomposer.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/hwcomposer.mt6765.so \
