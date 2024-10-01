@@ -1112,11 +1112,7 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6816/proprietary/vendor/lib64/librilfusion.so:$(TARGET_COPY_OUT_VENDOR)/lib64/librilfusion.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libsensor_custom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensor_custom.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libsimaka.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsimaka.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/libsoft_attestation_cert.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsoft_attestation_cert.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/libspeech_enh_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libspeech_enh_lib.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/libspeechparser_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libspeechparser_vendor.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libsrv_um.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsrv_um.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/libssl-mdapp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libssl-mdapp.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libst_mobile.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libst_mobile.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libstagefrighthw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libstagefrighthw.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libstblur_capture_api.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libstblur_capture_api.so \
@@ -1132,8 +1128,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6816/proprietary/vendor/lib64/libtqvalidate.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtqvalidate.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libtranlog.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtranlog.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libtranssion_bodybeauty.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtranssion_bodybeauty.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/libudf.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libudf.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/libufwriter.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libufwriter.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libusc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libusc.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libutinterface_custom_md.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libutinterface_custom_md.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libutinterface_md.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libutinterface_md.so \
@@ -1152,9 +1146,7 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6816/proprietary/vendor/lib64/pblcs5k3l6_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/pblcs5k3l6_mipi_raw_tuning.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/s5k3l6_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/s5k3l6_mipi_raw_IdxMgr.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/s5k3l6_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/s5k3l6_mipi_raw_tuning.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/soundfx/libaudiopreprocessing.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudiopreprocessing.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/soundfx/libaudiopreprocessing_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudiopreprocessing_mtk.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/soundfx/libdtsaudio.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libdtsaudio.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/vendor.mediatek.hardware.aee@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.aee@1.0.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/vendor.mediatek.hardware.atci@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.atci@1.0.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/vendor.mediatek.hardware.audio@6.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.audio@6.1.so \
