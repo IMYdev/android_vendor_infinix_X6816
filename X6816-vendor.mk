@@ -107,7 +107,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6816/proprietary/vendor/bin/netdc:$(TARGET_COPY_OUT_VENDOR)/bin/netdc \
     vendor/infinix/X6816/proprietary/vendor/bin/nvram_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/nvram_daemon \
     vendor/infinix/X6816/proprietary/vendor/bin/paytrigger_test:$(TARGET_COPY_OUT_VENDOR)/bin/paytrigger_test \
-    vendor/infinix/X6816/proprietary/vendor/bin/readelf:$(TARGET_COPY_OUT_VENDOR)/bin/readelf \
     vendor/infinix/X6816/proprietary/vendor/bin/rttv:$(TARGET_COPY_OUT_VENDOR)/bin/rttv \
     vendor/infinix/X6816/proprietary/vendor/bin/starter:$(TARGET_COPY_OUT_VENDOR)/bin/starter \
     vendor/infinix/X6816/proprietary/vendor/bin/stp_dump3:$(TARGET_COPY_OUT_VENDOR)/bin/stp_dump3 \
