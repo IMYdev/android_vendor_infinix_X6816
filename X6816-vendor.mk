@@ -87,10 +87,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6816/proprietary/vendor/bin/hw/vendor.tne@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.tne@1.0-service \
     vendor/infinix/X6816/proprietary/vendor/bin/hw/vendor.trustonic.tee@1.1-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.trustonic.tee@1.1-service \
     vendor/infinix/X6816/proprietary/vendor/bin/hw/vtservice_hidl:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vtservice_hidl \
-    vendor/infinix/X6816/proprietary/vendor/bin/i2cdetect:$(TARGET_COPY_OUT_VENDOR)/bin/i2cdetect \
-    vendor/infinix/X6816/proprietary/vendor/bin/i2cdump:$(TARGET_COPY_OUT_VENDOR)/bin/i2cdump \
-    vendor/infinix/X6816/proprietary/vendor/bin/i2cget:$(TARGET_COPY_OUT_VENDOR)/bin/i2cget \
-    vendor/infinix/X6816/proprietary/vendor/bin/i2cset:$(TARGET_COPY_OUT_VENDOR)/bin/i2cset \
     vendor/infinix/X6816/proprietary/vendor/bin/iconv:$(TARGET_COPY_OUT_VENDOR)/bin/iconv \
     vendor/infinix/X6816/proprietary/vendor/bin/install:$(TARGET_COPY_OUT_VENDOR)/bin/install \
     vendor/infinix/X6816/proprietary/vendor/bin/iomanager:$(TARGET_COPY_OUT_VENDOR)/bin/iomanager \
@@ -123,11 +119,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6816/proprietary/vendor/bin/starter:$(TARGET_COPY_OUT_VENDOR)/bin/starter \
     vendor/infinix/X6816/proprietary/vendor/bin/stp_dump3:$(TARGET_COPY_OUT_VENDOR)/bin/stp_dump3 \
     vendor/infinix/X6816/proprietary/vendor/bin/stroke:$(TARGET_COPY_OUT_VENDOR)/bin/stroke \
-    vendor/infinix/X6816/proprietary/vendor/bin/test:$(TARGET_COPY_OUT_VENDOR)/bin/test \
-    vendor/infinix/X6816/proprietary/vendor/bin/testgameserver:$(TARGET_COPY_OUT_VENDOR)/bin/testgameserver \
-    vendor/infinix/X6816/proprietary/vendor/bin/thermal:$(TARGET_COPY_OUT_VENDOR)/bin/thermal \
-    vendor/infinix/X6816/proprietary/vendor/bin/thermal_manager:$(TARGET_COPY_OUT_VENDOR)/bin/thermal_manager \
-    vendor/infinix/X6816/proprietary/vendor/bin/thermalloadalgod:$(TARGET_COPY_OUT_VENDOR)/bin/thermalloadalgod \
     vendor/infinix/X6816/proprietary/vendor/bin/tranlog:$(TARGET_COPY_OUT_VENDOR)/bin/tranlog \
     vendor/infinix/X6816/proprietary/vendor/bin/tranlogconfig:$(TARGET_COPY_OUT_VENDOR)/bin/tranlogconfig \
     vendor/infinix/X6816/proprietary/vendor/bin/trustonic_kmsetkey_ca:$(TARGET_COPY_OUT_VENDOR)/bin/trustonic_kmsetkey_ca \
