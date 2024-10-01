@@ -1122,7 +1122,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6816/proprietary/vendor/lib64/libtf_asd_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtf_asd_lib.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libtflite_native_inference.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtflite_native_inference.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libthha.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libthha.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/libtinycompress.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtinycompress.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libtneclient.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtneclient.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libtnev.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtnev.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libtqvalidate.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtqvalidate.so \
@@ -1134,9 +1133,7 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6816/proprietary/vendor/lib64/libvcodec_oal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvcodec_oal.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libvcodec_utility.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvcodec_utility.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libverno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libverno.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/libwifitest.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwifitest.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libwo.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwo.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/libwvhidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwvhidl.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/mediadrm/libwvdrmengine.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mediadrm/libwvdrmengine.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/mtkcam/libmtkcam_streaminfo_plugin-p1stt.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mtkcam/libmtkcam_streaminfo_plugin-p1stt.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/nwk_opt_imp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/nwk_opt_imp.so \
