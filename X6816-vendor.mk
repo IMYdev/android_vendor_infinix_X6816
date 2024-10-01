@@ -913,8 +913,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6816/proprietary/vendor/lib64/libaudiocustparam_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudiocustparam_vendor.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libaudiodcrflt_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudiodcrflt_vendor.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libaudiofmtconv.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudiofmtconv.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/libaudiofoundation.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudiofoundation.so \
-    vendor/infinix/X6816/proprietary/vendor/lib64/libaudioloudc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudioloudc.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libaudioprimarydevicehalifclient.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudioprimarydevicehalifclient.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libaudiotoolkit_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudiotoolkit_vendor.so \
     vendor/infinix/X6816/proprietary/vendor/lib64/libaurisysdemo.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaurisysdemo.so \
